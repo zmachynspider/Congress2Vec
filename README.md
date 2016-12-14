@@ -16,9 +16,6 @@ Table of Contents
 - [III. Model Building](https://github.com/zmachynspider/Congress2Vec/blob/master/III.%20Model%20Building.ipynb)
 - [IV. Congress2Vec](https://github.com/zmachynspider/Congress2Vec/blob/master/IV.%20Congress2Vec.ipynb)
 
-
-Write a report on your results. Your report should outline the problem (including business motivation) in plain English, discuss problem formulation options, your general approach to the problem and the results you got with your model. Model performance should be stated in technical terms and in plain English relating performance to business objectives.
-
 ----
 Motivation
 ----
